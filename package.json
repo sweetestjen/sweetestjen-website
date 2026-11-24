@@ -1,0 +1,23 @@
+{
+  "name": "sweetestjen-website",
+  "private": true,
+  "version": "0.1.0",
+  "description": "Jen's personal website",
+  "homepage": "https://github.com/sweetestjen/sweetestjen-website#readme",
+  "bugs": {
+    "url": "https://github.com/sweetestjen/sweetestjen-website/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sweetestjen/sweetestjen-website.git"
+  },
+  "author": "sweetestjen",
+  "devDependencies": {
+    "css-loader": "^7.1.5",
+    "mini-css-extract-plugin": "^2.10.2",
+    "sass": "^1.108.2",
+    "sass-loader": "^17.1.1",
+    "webpack": "^5.113.0",
+    "webpack-cli": "^7.3.1"
+  }
+}
